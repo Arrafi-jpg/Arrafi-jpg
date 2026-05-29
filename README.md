@@ -12,4 +12,4 @@ Building practical web applications, including an attendance and daily report sy
 ![](https://streak-stats.demolab.com/?user=Arrafi-jpg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arrafi-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-(https://arrafiyahya.netlify.app/)
+https://arrafiyahya.netlify.app/
