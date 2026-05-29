@@ -13,6 +13,6 @@ Building practical web applications, including an attendance and daily report sy
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arrafi-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arrafi-jpg&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://arrafiyahya.netlify.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
