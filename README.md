@@ -13,3 +13,13 @@ Building practical web applications, including an attendance and daily report sy
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arrafi-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 https://arrafiyahya.netlify.app/
+
+## 🟡 Contribution Pacman
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arrafi-jpg/Arrafi-jpg/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arrafi-jpg/Arrafi-jpg/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arrafi-jpg/Arrafi-jpg/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
